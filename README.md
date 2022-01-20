@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @akasherrabelly
 - 👀 I’m interested in software field.
 - 🌱 I’m currently learning prog amming languages which include java,python,SQL.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me phone number-9346089742.
+-  Reach me on phone-9346089742.
 
 
 <!---
